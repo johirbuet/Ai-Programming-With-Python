@@ -14,4 +14,4 @@ n = capacity - 1 = 9; 0000 1001
 
 n = 15
 
-n = n + 1 = 16
+return n = n + 1 = 16
